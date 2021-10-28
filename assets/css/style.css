@@ -3938,6 +3938,8 @@ img {
 
 .main-header.header-style-two .main-menu .navigation>li>a {
     color: #222;
+    font-family: ui-monospace;
+    font-weight: bold;
 }
 
 .main-header.header-style-two .header-upper .search-form-two input {
@@ -6521,7 +6523,7 @@ figure:hover img {
 	align-items: center;
 	width: 0;
 	height: 0;
-	padding: 25px;
+	padding: 19px;
 	text-decoration: none;
 	border-radius: 50%;
 	animation-name: pulse;
